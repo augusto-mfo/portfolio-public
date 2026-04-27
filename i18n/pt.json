@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contacto"
+  },
+  "about": {
+    "greeting": "Olá, sou o",
+    "role": "Desenvolvedor Frontend",
+    "bio": "Crio experiências digitais com código limpo e design cuidado. Apaixonado por construir interfaces que são funcionais e bonitas.",
+    "location": "Aveiro, Portugal",
+    "available": "Disponível para freelance",
+    "contactMe": "Contactar",
+    "viewProjects": "Ver projetos"
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Uma seleção de trabalhos de que me orgulho",
+    "viewProject": "Ver projeto",
+    "viewCode": "Ver código",
+    "techs": "Tecnologias",
+    "noProjects": "Projetos em breve."
+  },
+  "footer": {
+    "madeWith": "Feito com",
+    "by": "por Augusto Oliveira"
+  }
+}

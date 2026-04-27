@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "greeting": "Hello, I'm",
+    "role": "Frontend Developer",
+    "bio": "I craft digital experiences with clean code and thoughtful design. Passionate about building interfaces that are both functional and beautiful.",
+    "location": "Aveiro, Portugal",
+    "available": "Available for freelance",
+    "contactMe": "Contact me",
+    "viewProjects": "View projects"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of work I'm proud of",
+    "viewProject": "View project",
+    "viewCode": "View code",
+    "techs": "Technologies",
+    "noProjects": "Projects coming soon."
+  },
+  "footer": {
+    "madeWith": "Made with",
+    "by": "by Augusto Oliveira"
+  }
+}
