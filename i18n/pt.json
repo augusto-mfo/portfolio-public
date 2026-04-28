@@ -1,28 +1,23 @@
 {
   "nav": {
     "about": "Sobre",
-    "projects": "Projetos",
-    "contact": "Contacto"
+    "projects": "Projetos"
   },
   "about": {
     "greeting": "Olá, sou o",
-    "role": "Desenvolvedor Frontend",
-    "bio": "Crio experiências digitais com código limpo e design cuidado. Apaixonado por construir interfaces que são funcionais e bonitas.",
-    "location": "Aveiro, Portugal",
-    "available": "Disponível para freelance",
-    "contactMe": "Contactar",
+    "role": "Engenheiro de Software",
+    "bio": "Bem-vindo ao meu portfólio. Aqui, compartilho projetos de frontend 'standalone', criados para entregar UI/UX de alto nível sem a necessidade de um backend. Esta abordagem permite um hosting econômico, destacando meu compromisso com código limpo e eficiência de processos.",
     "viewProjects": "Ver projetos"
   },
   "projects": {
     "title": "Projetos",
     "subtitle": "Uma seleção de trabalhos de que me orgulho",
     "viewProject": "Ver projeto",
-    "viewCode": "Ver código",
     "techs": "Tecnologias",
     "noProjects": "Projetos em breve."
   },
   "footer": {
-    "madeWith": "Feito com",
+    "madeWith": "Feito com Angular e AI",
     "by": "por Augusto Oliveira"
   }
 }

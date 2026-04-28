@@ -1,28 +1,23 @@
 {
   "nav": {
     "about": "About",
-    "projects": "Projects",
-    "contact": "Contact"
+    "projects": "Projects"
   },
   "about": {
     "greeting": "Hello, I'm",
-    "role": "Frontend Developer",
-    "bio": "I craft digital experiences with clean code and thoughtful design. Passionate about building interfaces that are both functional and beautiful.",
-    "location": "Aveiro, Portugal",
-    "available": "Available for freelance",
-    "contactMe": "Contact me",
+    "role": "Software Engineer",
+    "bio": "Welcome to my portfolio. Here, I share standalone frontend projects built to deliver premium UI/UX without the need for a backend. This approach allows for cost-effective hosting while highlighting my commitment to clean code and process efficiency.",
     "viewProjects": "View projects"
   },
   "projects": {
     "title": "Projects",
     "subtitle": "A selection of work I'm proud of",
     "viewProject": "View project",
-    "viewCode": "View code",
     "techs": "Technologies",
     "noProjects": "Projects coming soon."
   },
   "footer": {
-    "madeWith": "Made with",
+    "madeWith": "Made with Angular and AI",
     "by": "by Augusto Oliveira"
   }
 }
