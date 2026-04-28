@@ -1,11 +1,12 @@
 {
+  "id": "ao-portfolio",
   "name": "Augusto Oliveira — Portfolio",
   "short_name": "AO Portfolio",
   "theme_color": "#c8a96e",
   "background_color": "#0f0f0d",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/portfolio-public/",
+  "start_url": "/portfolio-public/",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
