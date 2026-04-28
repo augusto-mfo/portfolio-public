@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777419702534,
+  "timestamp": 1777420081150,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -81,8 +81,8 @@
     "/portfolio-public/index.html": "3c742c7b811e490c160e05b6c90d1d9ce6b156d2",
     "/portfolio-public/main-JZKRY6X4.js": "a5edbb4fc563be03ae3580788565fc158e97981a",
     "/portfolio-public/manifest.webmanifest": "073383c9721ecc5ede8cb867f12309f8e60aac21",
-    "/portfolio-public/screenshots/desktop.png": "e4ee2ba651856b17c0abfd47ec360d0f09ae4ed2",
-    "/portfolio-public/screenshots/mobile.png": "887b303e057502854d0dabf1c0da23256aee551e",
+    "/portfolio-public/screenshots/desktop.png": "85a78a430f181304b8972821281e53a74fdad807",
+    "/portfolio-public/screenshots/mobile.png": "97e1554eabf9314789ae597ac5352461cdb3832a",
     "/portfolio-public/screenshots/mycoins/screenshot01.png": "5c817b22fde60556d7ee35f8b4ce52023cac05b6",
     "/portfolio-public/screenshots/mycoins/screenshot02.png": "351a503c8431a1082c1d9a6d1e1bc8848c6532fa",
     "/portfolio-public/screenshots/mycoins/screenshot03.png": "3d057be8791ac63448f0f94378c4313357792e8a",
