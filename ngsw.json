@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777419006600,
+  "timestamp": 1777419702534,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -39,6 +39,8 @@
         "/portfolio-public/icons/icon-512x512.png",
         "/portfolio-public/icons/icon-72x72.png",
         "/portfolio-public/icons/icon-96x96.png",
+        "/portfolio-public/screenshots/desktop.png",
+        "/portfolio-public/screenshots/mobile.png",
         "/portfolio-public/screenshots/mycoins/screenshot01.png",
         "/portfolio-public/screenshots/mycoins/screenshot02.png",
         "/portfolio-public/screenshots/mycoins/screenshot03.png",
@@ -78,7 +80,9 @@
     "/portfolio-public/icons/icon-96x96.png": "e6c0956a98743da70b745e1838593da0bd21964c",
     "/portfolio-public/index.html": "3c742c7b811e490c160e05b6c90d1d9ce6b156d2",
     "/portfolio-public/main-JZKRY6X4.js": "a5edbb4fc563be03ae3580788565fc158e97981a",
-    "/portfolio-public/manifest.webmanifest": "e7f4c69c3f8c40b2bf9551d6be7e9d36e9ab6014",
+    "/portfolio-public/manifest.webmanifest": "073383c9721ecc5ede8cb867f12309f8e60aac21",
+    "/portfolio-public/screenshots/desktop.png": "e4ee2ba651856b17c0abfd47ec360d0f09ae4ed2",
+    "/portfolio-public/screenshots/mobile.png": "887b303e057502854d0dabf1c0da23256aee551e",
     "/portfolio-public/screenshots/mycoins/screenshot01.png": "5c817b22fde60556d7ee35f8b4ce52023cac05b6",
     "/portfolio-public/screenshots/mycoins/screenshot02.png": "351a503c8431a1082c1d9a6d1e1bc8848c6532fa",
     "/portfolio-public/screenshots/mycoins/screenshot03.png": "3d057be8791ac63448f0f94378c4313357792e8a",
