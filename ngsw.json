@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777408676208,
+  "timestamp": 1777410950400,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/portfolio-public/chunk-62AEBLTA.js",
         "/portfolio-public/chunk-D5FGAS7E.js",
+        "/portfolio-public/chunk-SI5U7CAN.js",
         "/portfolio-public/chunk-WVC45ORU.js",
         "/portfolio-public/chunk-YJETTYDR.js",
         "/portfolio-public/favicon.ico",
         "/portfolio-public/index.html",
-        "/portfolio-public/main-6E2OU4XM.js",
+        "/portfolio-public/main-7F2DFZHR.js",
         "/portfolio-public/manifest.webmanifest",
         "/portfolio-public/styles-ZMIBEPC3.css"
       ],
@@ -47,6 +47,8 @@
         "/portfolio-public/screenshots/mycoins/screenshot06.png",
         "/portfolio-public/screenshots/mycoins/screenshot07.png",
         "/portfolio-public/screenshots/mycoins/screenshot08.png",
+        "/portfolio-public/screenshots/snake-game/screenshot01.png",
+        "/portfolio-public/screenshots/snake-game/screenshot02.png",
         "/portfolio-public/screenshots/solitaire-card-game/screenshot01.png",
         "/portfolio-public/screenshots/solitaire-card-game/screenshot02.png",
         "/portfolio-public/screenshots/solitaire-card-game/screenshot03.png",
@@ -57,8 +59,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/portfolio-public/chunk-62AEBLTA.js": "8946da2df173613878976999721d715ccc418ac2",
     "/portfolio-public/chunk-D5FGAS7E.js": "f0cddf4bee81bb5e9cda0a8b9c86fc8ac17f617a",
+    "/portfolio-public/chunk-SI5U7CAN.js": "3cc57a005b3929af0f7c040debff9fbe37e17a74",
     "/portfolio-public/chunk-WVC45ORU.js": "f0c27b5a5116b7265c694f2cb651a0211d82a201",
     "/portfolio-public/chunk-YJETTYDR.js": "aef524fba13fb392e1e24ae7b32190ff2606b9bb",
     "/portfolio-public/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
@@ -70,8 +72,8 @@
     "/portfolio-public/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/portfolio-public/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/portfolio-public/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/portfolio-public/index.html": "436d3456649daa7639617f6be8232a504fd4816e",
-    "/portfolio-public/main-6E2OU4XM.js": "6e87cdbdc536aca1366b95ffbf074e0c4ec4fcaa",
+    "/portfolio-public/index.html": "2ba18f09870f3a89e7adafc20cdc024e4d1a83df",
+    "/portfolio-public/main-7F2DFZHR.js": "a3677c1b1ea75864a2a191a698f908d4d52da905",
     "/portfolio-public/manifest.webmanifest": "e7f4c69c3f8c40b2bf9551d6be7e9d36e9ab6014",
     "/portfolio-public/screenshots/mycoins/screenshot01.png": "5c817b22fde60556d7ee35f8b4ce52023cac05b6",
     "/portfolio-public/screenshots/mycoins/screenshot02.png": "351a503c8431a1082c1d9a6d1e1bc8848c6532fa",
@@ -81,6 +83,8 @@
     "/portfolio-public/screenshots/mycoins/screenshot06.png": "4981ad3c9670d8288eafccd2576e96568d250ec1",
     "/portfolio-public/screenshots/mycoins/screenshot07.png": "011e4c44824024327c98c18021d2087c1850effb",
     "/portfolio-public/screenshots/mycoins/screenshot08.png": "4920ff015f2913121aafe1ab03cc6d7457a0a39e",
+    "/portfolio-public/screenshots/snake-game/screenshot01.png": "fac31ef8269faa2df022d95e511ad0a57c510826",
+    "/portfolio-public/screenshots/snake-game/screenshot02.png": "15f03f2c152d077d0ba0c3d876e494e81ebf7725",
     "/portfolio-public/screenshots/solitaire-card-game/screenshot01.png": "7dc8c84b2be490a5d7a59ba9fce6e7e97d4c2d24",
     "/portfolio-public/screenshots/solitaire-card-game/screenshot02.png": "6d12337720dd9969c9c1203514218535c1daeefc",
     "/portfolio-public/screenshots/solitaire-card-game/screenshot03.png": "0479f96ffaf01d40c00ee8cd2cf3394cb69a11cd",
