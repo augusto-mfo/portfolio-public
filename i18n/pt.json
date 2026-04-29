@@ -11,7 +11,7 @@
   },
   "projects": {
     "title": "Projetos",
-    "subtitle": "Uma seleção de trabalhos de que me orgulho",
+    "subtitle": "Uma seleção de projetos pessoais e ferramentas que facilitam a minha rotina ou me trazem satisfação. Se encontrares algum bug ou tiveres feedback, agradeço muito o envio!",
     "viewProject": "Ver projeto",
     "techs": "Tecnologias",
     "noProjects": "Projetos em breve."
