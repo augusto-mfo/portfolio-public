@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778694177589,
+  "timestamp": 1778697490384,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/portfolio-public/index.html",
         "/portfolio-public/main-ZMHYZUOM.js",
         "/portfolio-public/manifest.webmanifest",
-        "/portfolio-public/styles-DTUEMGD5.css"
+        "/portfolio-public/styles-FF4JUADX.css"
       ],
       "patterns": []
     },
@@ -92,7 +92,7 @@
     "/portfolio-public/icons/icon-512x512.png": "e5927803077edb978987f733b73e580bb2e35a9c",
     "/portfolio-public/icons/icon-72x72.png": "814c9cc36d6334dca31999d2b49baa8c1e41656b",
     "/portfolio-public/icons/icon-96x96.png": "e6c0956a98743da70b745e1838593da0bd21964c",
-    "/portfolio-public/index.html": "600f4e189c60f8886a8a3a1b94eecb3bc7284632",
+    "/portfolio-public/index.html": "562c9da373e14a5b1f36cb9644b38bdac9ee6772",
     "/portfolio-public/main-ZMHYZUOM.js": "bb2b117f7e2a9790dfacc66df2a1307fbfdaec85",
     "/portfolio-public/manifest.webmanifest": "1f61bcdecf51496ae5e174bc25f17b43fad36b14",
     "/portfolio-public/screenshots/desktop.png": "85a78a430f181304b8972821281e53a74fdad807",
@@ -129,7 +129,7 @@
     "/portfolio-public/screenshots/tetris-game/screenshot02.png": "bb7496609f1f8db0cc37e3712a55459dd1366bc3",
     "/portfolio-public/screenshots/tetris-game/screenshot03.png": "3062125e7aec63f04e3f8acab82d43410196d804",
     "/portfolio-public/screenshots/tetris-game/screenshot04.png": "9b5289b961c104cfab68f9cdee3ddfe43ad711d0",
-    "/portfolio-public/styles-DTUEMGD5.css": "e81abbbd816079bc3d79502b70e5951bfe69a836"
+    "/portfolio-public/styles-FF4JUADX.css": "d86a384466dc61599c913e21329f0a7e9a37c06b"
   },
   "navigationUrls": [
     {
