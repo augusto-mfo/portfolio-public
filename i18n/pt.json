@@ -4,9 +4,9 @@
     "projects": "Projetos"
   },
   "about": {
-    "greeting": "Olá, sou o",
+    "greeting": "Portfólio Pessoal",
     "role": "Engenheiro de Software",
-    "bio": "Bem-vindo ao meu portfólio. Aqui, compartilho projetos de frontend 'standalone', criados para entregar UI/UX de alto nível sem a necessidade de um backend. Esta abordagem permite um hosting econômico, destacando meu compromisso com código limpo e eficiência de processos.",
+    "bio": "Bem-vindo ao meu portfólio. Aqui compartilho alguns projetos de frontend criados para entregar aplicações funcionais sem a necessidade de um backend. É um laboratório pessoal onde testo conceitos e treino em diversas tecnologias.",
     "viewProjects": "Ver projetos"
   },
   "projects": {

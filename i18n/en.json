@@ -4,9 +4,9 @@
     "projects": "Projects"
   },
   "about": {
-    "greeting": "Hello, I'm",
+    "greeting": "Personal Portfolio",
     "role": "Software Engineer",
-    "bio": "Welcome to my portfolio. Here, I share standalone frontend projects built to deliver premium UI/UX without the need for a backend. This approach allows for cost-effective hosting while highlighting my commitment to clean code and process efficiency.",
+    "bio": "Welcome to my portfolio. Here I share frontend projects built to deliver functional applications without the need for a backend. It's a personal laboratory that serves as a sandbox for testing and learning new technologies.",
     "viewProjects": "View projects"
   },
   "projects": {

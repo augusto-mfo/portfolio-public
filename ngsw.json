@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777459664248,
+  "timestamp": 1778694177589,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
+        "/portfolio-public/chunk-ATP36SE3.js",
         "/portfolio-public/chunk-D5FGAS7E.js",
-        "/portfolio-public/chunk-E3NZJ5AR.js",
-        "/portfolio-public/chunk-MWAEXQJ3.js",
+        "/portfolio-public/chunk-I7FA6UBW.js",
         "/portfolio-public/chunk-WVC45ORU.js",
         "/portfolio-public/favicon.ico",
         "/portfolio-public/index.html",
-        "/portfolio-public/main-YKLDOZYL.js",
+        "/portfolio-public/main-ZMHYZUOM.js",
         "/portfolio-public/manifest.webmanifest",
-        "/portfolio-public/styles-75EPGGZU.css"
+        "/portfolio-public/styles-DTUEMGD5.css"
       ],
       "patterns": []
     },
@@ -54,6 +54,15 @@
         "/portfolio-public/screenshots/mycoins/screenshot06.png",
         "/portfolio-public/screenshots/mycoins/screenshot07.png",
         "/portfolio-public/screenshots/mycoins/screenshot08.png",
+        "/portfolio-public/screenshots/mymusic/screenshot01.png",
+        "/portfolio-public/screenshots/mymusic/screenshot02.png",
+        "/portfolio-public/screenshots/mymusic/screenshot03.png",
+        "/portfolio-public/screenshots/mymusic/screenshot04.png",
+        "/portfolio-public/screenshots/mymusic/screenshot05.png",
+        "/portfolio-public/screenshots/mymusic/screenshot06.png",
+        "/portfolio-public/screenshots/mymusic/screenshot07.png",
+        "/portfolio-public/screenshots/mymusic/screenshot08.png",
+        "/portfolio-public/screenshots/mymusic/screenshot09.png",
         "/portfolio-public/screenshots/snake-game/screenshot01.png",
         "/portfolio-public/screenshots/snake-game/screenshot02.png",
         "/portfolio-public/screenshots/solitaire-card-game/screenshot01.png",
@@ -70,9 +79,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/portfolio-public/chunk-ATP36SE3.js": "bd229aa37c1e2d60ed48a5f317b1ae9ec4861fec",
     "/portfolio-public/chunk-D5FGAS7E.js": "f0cddf4bee81bb5e9cda0a8b9c86fc8ac17f617a",
-    "/portfolio-public/chunk-E3NZJ5AR.js": "c9e2fdbc6f688c0c84b5bff5aebd146b33c0a336",
-    "/portfolio-public/chunk-MWAEXQJ3.js": "8e3dcd5917b86069d1a90cb7c7050501d3dd3103",
+    "/portfolio-public/chunk-I7FA6UBW.js": "701eb1b38cbcccaea48698b2d7c31b6bf9ccd383",
     "/portfolio-public/chunk-WVC45ORU.js": "f0c27b5a5116b7265c694f2cb651a0211d82a201",
     "/portfolio-public/favicon.ico": "8cddae915cc5086ced17f73884c39c3087adce3d",
     "/portfolio-public/icons/icon-128x128.png": "b77838a7a0784da3aa2229014378c37aa99df2f6",
@@ -83,8 +92,8 @@
     "/portfolio-public/icons/icon-512x512.png": "e5927803077edb978987f733b73e580bb2e35a9c",
     "/portfolio-public/icons/icon-72x72.png": "814c9cc36d6334dca31999d2b49baa8c1e41656b",
     "/portfolio-public/icons/icon-96x96.png": "e6c0956a98743da70b745e1838593da0bd21964c",
-    "/portfolio-public/index.html": "c85672f1d09a5a78d095bc19ee3ce36e09762090",
-    "/portfolio-public/main-YKLDOZYL.js": "668bd87c00c45eb89961fd20b839de799c230ad5",
+    "/portfolio-public/index.html": "600f4e189c60f8886a8a3a1b94eecb3bc7284632",
+    "/portfolio-public/main-ZMHYZUOM.js": "bb2b117f7e2a9790dfacc66df2a1307fbfdaec85",
     "/portfolio-public/manifest.webmanifest": "1f61bcdecf51496ae5e174bc25f17b43fad36b14",
     "/portfolio-public/screenshots/desktop.png": "85a78a430f181304b8972821281e53a74fdad807",
     "/portfolio-public/screenshots/freecell-card-game/screenshot01.png": "44c9ff445a8b652e92721bb8ac14ec8d6074a46a",
@@ -101,6 +110,15 @@
     "/portfolio-public/screenshots/mycoins/screenshot06.png": "4981ad3c9670d8288eafccd2576e96568d250ec1",
     "/portfolio-public/screenshots/mycoins/screenshot07.png": "011e4c44824024327c98c18021d2087c1850effb",
     "/portfolio-public/screenshots/mycoins/screenshot08.png": "4920ff015f2913121aafe1ab03cc6d7457a0a39e",
+    "/portfolio-public/screenshots/mymusic/screenshot01.png": "c5b56a9b88942dcc2dbbde6263adf1f1c4db85b4",
+    "/portfolio-public/screenshots/mymusic/screenshot02.png": "b1a111f620f1432333f9f4dfb5724373d587a294",
+    "/portfolio-public/screenshots/mymusic/screenshot03.png": "b4bc0522851182f4c14fdf1e3a58e9ae6cb0548e",
+    "/portfolio-public/screenshots/mymusic/screenshot04.png": "372c543837da570d3328cd6fe6abdfedda7f0ca9",
+    "/portfolio-public/screenshots/mymusic/screenshot05.png": "b8e26f9df91c0923ded9578e5a9dea6865e2e83a",
+    "/portfolio-public/screenshots/mymusic/screenshot06.png": "48d635e5314635a7feb37bfa8a4b88b5bf31a18f",
+    "/portfolio-public/screenshots/mymusic/screenshot07.png": "8cce584923606b768230b1d51dcf157f28c7f20c",
+    "/portfolio-public/screenshots/mymusic/screenshot08.png": "9e8175b7278ba6a780e049251840d75d2471f087",
+    "/portfolio-public/screenshots/mymusic/screenshot09.png": "8396584425bc75283d05870994918926d4285e7e",
     "/portfolio-public/screenshots/snake-game/screenshot01.png": "fac31ef8269faa2df022d95e511ad0a57c510826",
     "/portfolio-public/screenshots/snake-game/screenshot02.png": "15f03f2c152d077d0ba0c3d876e494e81ebf7725",
     "/portfolio-public/screenshots/solitaire-card-game/screenshot01.png": "7dc8c84b2be490a5d7a59ba9fce6e7e97d4c2d24",
@@ -111,7 +129,7 @@
     "/portfolio-public/screenshots/tetris-game/screenshot02.png": "bb7496609f1f8db0cc37e3712a55459dd1366bc3",
     "/portfolio-public/screenshots/tetris-game/screenshot03.png": "3062125e7aec63f04e3f8acab82d43410196d804",
     "/portfolio-public/screenshots/tetris-game/screenshot04.png": "9b5289b961c104cfab68f9cdee3ddfe43ad711d0",
-    "/portfolio-public/styles-75EPGGZU.css": "dd714021b1f553d4f158d356bbf74b61b5164bc6"
+    "/portfolio-public/styles-DTUEMGD5.css": "e81abbbd816079bc3d79502b70e5951bfe69a836"
   },
   "navigationUrls": [
     {
