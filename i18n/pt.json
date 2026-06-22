@@ -4,9 +4,9 @@
     "projects": "Projetos"
   },
   "about": {
-    "greeting": "Portfólio Pessoal",
+    "greeting": "Portfólio Pessoal com IA",
     "role": "Engenheiro de Software",
-    "bio": "Bem-vindo ao meu portfólio. Aqui compartilho alguns projetos de frontend criados para entregar aplicações funcionais sem a necessidade de um backend. É um laboratório pessoal onde testo conceitos e treino em diversas tecnologias.",
+    "bio": "Bem-vindo ao meu portfólio. Aqui, apresento aplicações funcionais focadas no cliente (client-side), desenvolvidas através de engenharia assistida por IA. Em vez de produtos comerciais, estes projetos servem como provas de conceito (PoCs) robustas, desenhadas para operar de forma independente, sem dependências de backend — atuando como um ambiente de testes (sandbox) arquitetural avançado para a prototipagem e avaliação de novas tecnologias.",
     "viewProjects": "Ver projetos"
   },
   "projects": {
