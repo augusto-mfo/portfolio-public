@@ -4,9 +4,9 @@
     "projects": "Projects"
   },
   "about": {
-    "greeting": "Personal Portfolio",
+    "greeting": "Personal AI Portfolio",
     "role": "Software Engineer",
-    "bio": "Welcome to my portfolio. Here I share frontend projects built to deliver functional applications without the need for a backend. It's a personal laboratory that serves as a sandbox for testing and learning new technologies.",
+    "bio": "Welcome to my portfolio. Here, I showcase functional, client-side applications built through AI-assisted engineering. Rather than commercial products, these projects serve as robust proofs-of-concept designed to operate independently without backend dependencies—acting as an advanced architectural sandbox for prototyping and evaluating new technologies.",
     "viewProjects": "View projects"
   },
   "projects": {
