@@ -4,7 +4,7 @@
     "projects": "Projects"
   },
   "about": {
-    "greeting": "Personal AI Portfolio",
+    "greeting": "Personal Portfolio",
     "role": "Software Engineer",
     "bio": "Welcome to my portfolio. Here, I showcase functional, client-side applications built through AI-assisted engineering. Rather than commercial products, these projects serve as robust proofs-of-concept designed to operate independently without backend dependencies—acting as an advanced architectural sandbox for prototyping and evaluating new technologies.",
     "viewProjects": "View projects"
