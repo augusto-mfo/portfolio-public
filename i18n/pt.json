@@ -6,13 +6,13 @@
   "about": {
     "greeting": "Portfólio Pessoal",
     "role": "Engenheiro de Software",
-    "bio": "Bem-vindo ao meu portfólio. Aqui, apresento aplicações funcionais focadas no cliente (client-side), desenvolvidas através de engenharia assistida por IA. Em vez de produtos comerciais, estes projetos servem como provas de conceito (PoCs) robustas, desenhadas para operar de forma independente, sem dependências de backend — atuando como um ambiente de testes (sandbox) arquitetural avançado para a prototipagem e avaliação de novas tecnologias.",
+    "bio": "Bem-vindo ao meu portefólio. Este espaço apresenta aplicações funcionais desenhadas para resolver problemas do quotidiano, avaliar diferentes padrões arquiteturais e prototipar integrações técnicas. Longe de serem produtos comerciais finais, estes projetos servem como provas de conceito robustas — abrangendo desde soluções independentes no client-side até sistemas full-stack distribuídos — funcionando como um laboratório avançado de engenharia para testar modos de falha e explorar limites arquiteturais. Cada projeto aqui apresentado é desenvolvido recorrendo a uma metodologia AI-DLC ou a estruturas modernas de engenharia assistida por IA, onde o desenho do sistema, a validação e a integridade arquitetural permanecem totalmente sob a direção do critério técnico humano.",
     "viewProjects": "Ver projetos"
   },
   "projects": {
     "title": "Projetos",
-    "subtitle": "Uma seleção de projetos pessoais e ferramentas que facilitam a minha rotina ou me trazem satisfação. Se encontrares algum bug ou tiveres feedback, agradeço muito o envio!",
-    "viewProject": "Ver projeto",
+    "subtitle": "Uma seleção de projetos pessoais e ferramentas técnicas desenvolvidas para otimizar rotinas diárias ou explorar desafios específicos de engenharia. Se encontrar alguma falha, bug, ou tiver perspetivas arquiteturais alternativas, entre em contacto — o feedback técnico e o debate de ideias são sempre bem-vindos.",
+    "viewProject": "Testar",
     "techs": "Tecnologias",
     "noProjects": "Projetos em breve."
   },

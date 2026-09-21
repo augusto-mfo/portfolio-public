@@ -6,13 +6,13 @@
   "about": {
     "greeting": "Personal Portfolio",
     "role": "Software Engineer",
-    "bio": "Welcome to my portfolio. Here, I showcase functional, client-side applications built through AI-assisted engineering. Rather than commercial products, these projects serve as robust proofs-of-concept designed to operate independently without backend dependencies—acting as an advanced architectural sandbox for prototyping and evaluating new technologies.",
+    "bio": "Welcome to my portfolio. This space showcases functional applications designed to solve practical everyday problems, evaluate different architectural patterns, and prototype technical integrations. Rather than final commercial products, these projects serve as robust proofs-of-concept spanning from independent client-side solutions to full-stack distributed systems, acting as an advanced engineering sandbox to test failure modes and explore architectural limits. Every project displayed here is developed utilizing an AI-DLC methodology or modern AI-assisted engineering frameworks, where system design, validation, and architectural integrity remain fully directed by human engineering judgment.",
     "viewProjects": "View projects"
   },
   "projects": {
     "title": "Projects",
-    "subtitle": "A selection of personal projects and tools that streamline my routine or bring me satisfaction. I’d love to hear your thoughts—feel free to send over any feedback or bugs!",
-    "viewProject": "View project",
+    "subtitle": "A selection of personal projects and technical tools built to streamline daily routines or explore specific engineering challenges. If you find any issues, bugs, or have alternative architectural perspectives, feel free to reach out—technical feedback and discussions are always welcome.",
+    "viewProject": "Try it",
     "techs": "Technologies",
     "noProjects": "Projects coming soon."
   },
