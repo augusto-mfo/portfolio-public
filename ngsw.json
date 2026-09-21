@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1790000616247,
+  "timestamp": 1790020088505,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/portfolio-public/chunk-2FYUBYC6.js",
-        "/portfolio-public/chunk-DZFOJQWK.js",
-        "/portfolio-public/chunk-SVENPMD4.js",
-        "/portfolio-public/chunk-TDJXNEIY.js",
+        "/portfolio-public/chunk-326KD4WH.js",
+        "/portfolio-public/chunk-32S7K26C.js",
+        "/portfolio-public/chunk-6EUTSMNI.js",
+        "/portfolio-public/chunk-DVYOWDEP.js",
         "/portfolio-public/favicon.ico",
         "/portfolio-public/index.html",
-        "/portfolio-public/main-EHTNQOTQ.js",
+        "/portfolio-public/main-H4ZHA44B.js",
         "/portfolio-public/manifest.webmanifest",
-        "/portfolio-public/styles-HPH7EBCE.css"
+        "/portfolio-public/styles-WCA4TQ6C.css"
       ],
       "patterns": []
     },
@@ -31,6 +31,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/portfolio-public/backgrounds/studio-desktop.avif",
+        "/portfolio-public/backgrounds/studio-desktop.webp",
+        "/portfolio-public/backgrounds/studio-mobile.avif",
+        "/portfolio-public/backgrounds/studio-mobile.webp",
         "/portfolio-public/icons/icon-128x128.png",
         "/portfolio-public/icons/icon-144x144.png",
         "/portfolio-public/icons/icon-152x152.png",
@@ -73,6 +77,17 @@
         "/portfolio-public/screenshots/mymusic/screenshot07.png",
         "/portfolio-public/screenshots/mymusic/screenshot08.png",
         "/portfolio-public/screenshots/mymusic/screenshot09.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot01.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot02.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot03.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot04.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot05.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot06.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot07.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot08.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot09.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot10.png",
+        "/portfolio-public/screenshots/payment-simulator/screenshot11.png",
         "/portfolio-public/screenshots/snake-game/screenshot01.png",
         "/portfolio-public/screenshots/snake-game/screenshot02.png",
         "/portfolio-public/screenshots/solitaire-card-game/screenshot01.png",
@@ -90,10 +105,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/portfolio-public/chunk-2FYUBYC6.js": "9d5f1bf0378d2bbe4b8cb2f9c65b3d6bde20ae1d",
-    "/portfolio-public/chunk-DZFOJQWK.js": "34cff6f135fec4a48cb0ced19aeaa0483a4c3392",
-    "/portfolio-public/chunk-SVENPMD4.js": "c4b9f82e69334185e4a81b76e1f0ddd93cc978d0",
-    "/portfolio-public/chunk-TDJXNEIY.js": "b5fb18189ea6cabe40b62c09b7ff44b4beb220d2",
+    "/portfolio-public/backgrounds/studio-desktop.avif": "830e2fdfb715b54639d8ae8b9aac7108d9e7b8fb",
+    "/portfolio-public/backgrounds/studio-desktop.webp": "983d58ed6a30b55a6538b9f15670d38cf49a5c86",
+    "/portfolio-public/backgrounds/studio-mobile.avif": "24bab66e5bd7d6903a8d7f59e12a17af19cb7469",
+    "/portfolio-public/backgrounds/studio-mobile.webp": "6fe2fcc2eba38f661117aea85b4fff40cfaf61ff",
+    "/portfolio-public/chunk-326KD4WH.js": "52b6d5580d3313afff84dc536259857b9e37668c",
+    "/portfolio-public/chunk-32S7K26C.js": "d31d87010dc6e5dc1177861724a0d1f4f0df3953",
+    "/portfolio-public/chunk-6EUTSMNI.js": "7f55488458b0bb91c0cd626da2a71d10dd0644f1",
+    "/portfolio-public/chunk-DVYOWDEP.js": "4e618074cbb517bd7207a5bae80890b62845a831",
     "/portfolio-public/favicon.ico": "8cddae915cc5086ced17f73884c39c3087adce3d",
     "/portfolio-public/icons/icon-128x128.png": "b77838a7a0784da3aa2229014378c37aa99df2f6",
     "/portfolio-public/icons/icon-144x144.png": "2975047770af8a2e41e14d2dd64f9023d54845a6",
@@ -103,8 +122,8 @@
     "/portfolio-public/icons/icon-512x512.png": "e5927803077edb978987f733b73e580bb2e35a9c",
     "/portfolio-public/icons/icon-72x72.png": "814c9cc36d6334dca31999d2b49baa8c1e41656b",
     "/portfolio-public/icons/icon-96x96.png": "e6c0956a98743da70b745e1838593da0bd21964c",
-    "/portfolio-public/index.html": "66e9b96869ac5e3a5d9b3e3cb45d6f0ba620e13f",
-    "/portfolio-public/main-EHTNQOTQ.js": "c2fb25ddb3cfe613467bd29796630c59105f68c1",
+    "/portfolio-public/index.html": "819b032a5de08ef1968f929519e23b0c70d4dbcd",
+    "/portfolio-public/main-H4ZHA44B.js": "6b2a3c92fd6d4968941e754771e4312ab24aef78",
     "/portfolio-public/manifest.webmanifest": "92a0668240a78ef04629702b4b5686d602905e5f",
     "/portfolio-public/screenshots/desktop.png": "85a78a430f181304b8972821281e53a74fdad807",
     "/portfolio-public/screenshots/freecell-card-game/screenshot01.png": "5c17079e1aca5f9438f7e80ecc0a479be7ad2fd0",
@@ -140,6 +159,17 @@
     "/portfolio-public/screenshots/mymusic/screenshot07.png": "8cce584923606b768230b1d51dcf157f28c7f20c",
     "/portfolio-public/screenshots/mymusic/screenshot08.png": "9e8175b7278ba6a780e049251840d75d2471f087",
     "/portfolio-public/screenshots/mymusic/screenshot09.png": "8396584425bc75283d05870994918926d4285e7e",
+    "/portfolio-public/screenshots/payment-simulator/screenshot01.png": "c0683e9dda91f2fde04147d735664df796e4338b",
+    "/portfolio-public/screenshots/payment-simulator/screenshot02.png": "8433d03938c59bb591cabf4ca080f033f4f3ac3a",
+    "/portfolio-public/screenshots/payment-simulator/screenshot03.png": "b89e2aea3c50337aae3743c2e937e4a19ed1d9d7",
+    "/portfolio-public/screenshots/payment-simulator/screenshot04.png": "44fe99ce67887ba4cf45a5aad677c08d5f4a8514",
+    "/portfolio-public/screenshots/payment-simulator/screenshot05.png": "04cee90876abee292113865e12abc5c2fd859942",
+    "/portfolio-public/screenshots/payment-simulator/screenshot06.png": "626f296d5cc3665f7dd551d1fceb6074c8a3c368",
+    "/portfolio-public/screenshots/payment-simulator/screenshot07.png": "9d5b28ad44929d4ecccc95ea0704eba77e862992",
+    "/portfolio-public/screenshots/payment-simulator/screenshot08.png": "7c01321f44d7328d6f5ac5ce5b99c501076f0149",
+    "/portfolio-public/screenshots/payment-simulator/screenshot09.png": "734fc83ad1c6fafd0f98d410155d6e076723a85b",
+    "/portfolio-public/screenshots/payment-simulator/screenshot10.png": "7d6d3918154014f65dfc451066724644339cc1e2",
+    "/portfolio-public/screenshots/payment-simulator/screenshot11.png": "8b6e6b32286a5721c14bd551c66174b8b2713dda",
     "/portfolio-public/screenshots/snake-game/screenshot01.png": "fac31ef8269faa2df022d95e511ad0a57c510826",
     "/portfolio-public/screenshots/snake-game/screenshot02.png": "15f03f2c152d077d0ba0c3d876e494e81ebf7725",
     "/portfolio-public/screenshots/solitaire-card-game/screenshot01.png": "9aa34aae2f4aba27c1acb523feb71798cd36fdf8",
@@ -151,7 +181,7 @@
     "/portfolio-public/screenshots/tetris-game/screenshot02.png": "bb7496609f1f8db0cc37e3712a55459dd1366bc3",
     "/portfolio-public/screenshots/tetris-game/screenshot03.png": "3062125e7aec63f04e3f8acab82d43410196d804",
     "/portfolio-public/screenshots/tetris-game/screenshot04.png": "9b5289b961c104cfab68f9cdee3ddfe43ad711d0",
-    "/portfolio-public/styles-HPH7EBCE.css": "5f326aac566e7ed9eaea2a9a8036cff325077714"
+    "/portfolio-public/styles-WCA4TQ6C.css": "c27aa27369497a818df15a4dab56e539aea1f7c7"
   },
   "navigationUrls": [
     {
