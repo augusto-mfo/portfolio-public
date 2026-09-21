@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1790020955333,
+  "timestamp": 1790034425184,
   "index": "/portfolio-public/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/portfolio-public/chunk-326KD4WH.js",
         "/portfolio-public/chunk-32S7K26C.js",
         "/portfolio-public/chunk-6EUTSMNI.js",
         "/portfolio-public/chunk-DVYOWDEP.js",
+        "/portfolio-public/chunk-WSES6VVW.js",
         "/portfolio-public/favicon.ico",
         "/portfolio-public/index.html",
-        "/portfolio-public/main-H4ZHA44B.js",
+        "/portfolio-public/main-HTAX6OKO.js",
         "/portfolio-public/manifest.webmanifest",
-        "/portfolio-public/styles-WCA4TQ6C.css"
+        "/portfolio-public/styles-HUK2BP4V.css"
       ],
       "patterns": []
     },
@@ -109,10 +109,10 @@
     "/portfolio-public/backgrounds/studio-desktop.webp": "983d58ed6a30b55a6538b9f15670d38cf49a5c86",
     "/portfolio-public/backgrounds/studio-mobile.avif": "24bab66e5bd7d6903a8d7f59e12a17af19cb7469",
     "/portfolio-public/backgrounds/studio-mobile.webp": "6fe2fcc2eba38f661117aea85b4fff40cfaf61ff",
-    "/portfolio-public/chunk-326KD4WH.js": "52b6d5580d3313afff84dc536259857b9e37668c",
     "/portfolio-public/chunk-32S7K26C.js": "d31d87010dc6e5dc1177861724a0d1f4f0df3953",
     "/portfolio-public/chunk-6EUTSMNI.js": "7f55488458b0bb91c0cd626da2a71d10dd0644f1",
     "/portfolio-public/chunk-DVYOWDEP.js": "4e618074cbb517bd7207a5bae80890b62845a831",
+    "/portfolio-public/chunk-WSES6VVW.js": "94ba021c4c6a6763de3ac1c47207f2ae9de48b78",
     "/portfolio-public/favicon.ico": "8cddae915cc5086ced17f73884c39c3087adce3d",
     "/portfolio-public/icons/icon-128x128.png": "b77838a7a0784da3aa2229014378c37aa99df2f6",
     "/portfolio-public/icons/icon-144x144.png": "2975047770af8a2e41e14d2dd64f9023d54845a6",
@@ -122,8 +122,8 @@
     "/portfolio-public/icons/icon-512x512.png": "e5927803077edb978987f733b73e580bb2e35a9c",
     "/portfolio-public/icons/icon-72x72.png": "814c9cc36d6334dca31999d2b49baa8c1e41656b",
     "/portfolio-public/icons/icon-96x96.png": "e6c0956a98743da70b745e1838593da0bd21964c",
-    "/portfolio-public/index.html": "819b032a5de08ef1968f929519e23b0c70d4dbcd",
-    "/portfolio-public/main-H4ZHA44B.js": "6b2a3c92fd6d4968941e754771e4312ab24aef78",
+    "/portfolio-public/index.html": "1972594b26d630b4360a3dfcae4f6513da0688c4",
+    "/portfolio-public/main-HTAX6OKO.js": "b0006f26a8868087c06ce841a79114c2809689f0",
     "/portfolio-public/manifest.webmanifest": "92a0668240a78ef04629702b4b5686d602905e5f",
     "/portfolio-public/screenshots/desktop.png": "85a78a430f181304b8972821281e53a74fdad807",
     "/portfolio-public/screenshots/freecell-card-game/screenshot01.png": "5c17079e1aca5f9438f7e80ecc0a479be7ad2fd0",
@@ -181,7 +181,7 @@
     "/portfolio-public/screenshots/tetris-game/screenshot02.png": "bb7496609f1f8db0cc37e3712a55459dd1366bc3",
     "/portfolio-public/screenshots/tetris-game/screenshot03.png": "3062125e7aec63f04e3f8acab82d43410196d804",
     "/portfolio-public/screenshots/tetris-game/screenshot04.png": "9b5289b961c104cfab68f9cdee3ddfe43ad711d0",
-    "/portfolio-public/styles-WCA4TQ6C.css": "c27aa27369497a818df15a4dab56e539aea1f7c7"
+    "/portfolio-public/styles-HUK2BP4V.css": "7d987a8fa5fa5ceee0933f2e3291491034e99799"
   },
   "navigationUrls": [
     {
