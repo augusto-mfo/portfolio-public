@@ -14,11 +14,35 @@
     "subtitle": "A selection of personal projects and technical tools built to streamline daily routines or explore specific engineering challenges. If you find any issues, bugs, or have alternative architectural perspectives, feel free to reach out—technical feedback and discussions are always welcome.",
     "viewProject": "Try it",
     "techs": "Technologies",
-    "noProjects": "Projects coming soon."
+    "noProjects": "Projects coming soon.",
+    "feedbackCta": "Get in touch"
   },
   "footer": {
     "madeWith": "Made with Angular",
     "by": "by Augusto Oliveira",
-    "visits": "visits"
+    "visits": "visits",
+    "contactAria": "Send me a message"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Have a question, spotted a bug, or just want to say hi? Send me a message.",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "E-mail",
+    "emailPlaceholder": "Your e-mail address",
+    "subject": "Subject",
+    "subjectOptions": {
+      "contact": "Contact",
+      "feedback": "Feedback",
+      "other": "Other"
+    },
+    "message": "Message",
+    "messagePlaceholder": "What's on your mind?",
+    "required": "This field is required.",
+    "send": "Send message",
+    "successTitle": "Message sent",
+    "successBody": "Thanks for reaching out — I'll get back to you soon.",
+    "error": "Something went wrong. Please try again in a moment.",
+    "close": "Close"
   }
 }

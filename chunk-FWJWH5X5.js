@@ -1,0 +1,1 @@
+import{L as t,fa as o}from"./chunk-UMSLKPGS.js";var i=class e{isOpen=o(!1);open(){this.isOpen.set(!0)}close(){this.isOpen.set(!1)}static \u0275fac=function(n){return new(n||e)};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{i as a};

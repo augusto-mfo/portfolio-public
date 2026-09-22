@@ -1,7 +1,7 @@
 {
   "id": "ao-portfolio",
-  "name": "Augusto Oliveira — Portfolio",
-  "short_name": "AO Portfolio",
+  "name": "Personal Portfolio",
+  "short_name": "Personal Portfolio",
   "theme_color": "#c8a96e",
   "background_color": "#0f0f0d",
   "display": "standalone",

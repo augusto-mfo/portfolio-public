@@ -14,11 +14,35 @@
     "subtitle": "Uma seleção de projetos pessoais e ferramentas técnicas desenvolvidas para otimizar rotinas diárias ou explorar desafios específicos de engenharia. Se encontrar alguma falha, bug, ou tiver perspetivas arquiteturais alternativas, entre em contacto — o feedback técnico e o debate de ideias são sempre bem-vindos.",
     "viewProject": "Testar",
     "techs": "Tecnologias",
-    "noProjects": "Projetos em breve."
+    "noProjects": "Projetos em breve.",
+    "feedbackCta": "Entra em contacto"
   },
   "footer": {
     "madeWith": "Feito com Angular",
     "by": "por Augusto Oliveira",
-    "visits": "visitas"
+    "visits": "visitas",
+    "contactAria": "Envia-me uma mensagem"
+  },
+  "contact": {
+    "title": "Fala comigo",
+    "subtitle": "Tens uma pergunta, encontraste um bug, ou só queres dizer olá? Envia-me uma mensagem.",
+    "name": "Nome",
+    "namePlaceholder": "O teu nome",
+    "email": "E-mail",
+    "emailPlaceholder": "O seu endereço de e-mail",
+    "subject": "Assunto",
+    "subjectOptions": {
+      "contact": "Contacto",
+      "feedback": "Feedback",
+      "other": "Outro"
+    },
+    "message": "Mensagem",
+    "messagePlaceholder": "O que tens em mente?",
+    "required": "Este campo é obrigatório.",
+    "send": "Enviar mensagem",
+    "successTitle": "Mensagem enviada",
+    "successBody": "Obrigado pelo contacto — responderei em breve.",
+    "error": "Ocorreu um erro. Por favor tenta novamente daqui a pouco.",
+    "close": "Fechar"
   }
 }
