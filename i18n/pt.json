@@ -18,6 +18,7 @@
   },
   "footer": {
     "madeWith": "Feito com Angular",
-    "by": "por Augusto Oliveira"
+    "by": "por Augusto Oliveira",
+    "visits": "visitas"
   }
 }
